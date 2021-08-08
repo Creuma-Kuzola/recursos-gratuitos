@@ -132,6 +132,8 @@
 | [Get Emoji](https://getemoji.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Stories Freepik](https://stories.freepik.com/) | <img src="../flags/eua.png" width="40px"> |
 | [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet) | <img src="../flags/eua.png" width="40px"> |
+| [Emojipedia](https://emojipedia.org/) | <img src="../flags/eua.png" width="40px">|
+
 
 ## 🎨 Paletas de Cores
 > Sites e recursos que ajudam nas escolhas relacionadas às cores
